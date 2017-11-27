@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@types/material-ui": "^0.18.4",
-    "@types/react-bootstrap": "^0.31.8",
+    "@types/react-bootstrap": "^0.31.5",
     "material-ui": "^0.19.4",
     "react-bootstrap": "^0.31.5"
   }
